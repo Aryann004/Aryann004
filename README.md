@@ -34,7 +34,9 @@
       width="100%">
   </picture>
 </p>
-
+<p align="center">
+  <i>⚡ Every commit leaves a mark. Keep coding, keep growing.</i>
+</p>
 ---
 
 ## 💻 Tech Stack
