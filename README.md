@@ -4,7 +4,7 @@
 <h1 align="center">Hey there, I'm Aryan Gautam 👋</h1>
 
 <h3 align="center">
-  Aspiring Software Developer | Java & DSA Enthusiast
+  Aspiring Software Developer | Java & DSA | Cyber Security Enthusiast
 </h3>
 
 <p align="center">
@@ -37,12 +37,6 @@
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=java,c,python,html,css,js,react,nodejs,dotnet,mysql,git,github&perline=6&theme=dark" alt="Technology Stack"/>
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/DSA-Problem%20Solving-00BFA6?style=for-the-badge" alt="Data Structures and Algorithms"/>
-  <img src="https://img.shields.io/badge/SQL-Database%20Queries-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL"/>
-  <img src="https://img.shields.io/badge/ASP.NET-Web%20Development-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt="ASP.NET"/>
 </p>
 
 ---
