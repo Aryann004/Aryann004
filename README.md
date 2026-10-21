@@ -15,12 +15,28 @@
 
 # ⚡ CODE.exe — Developer Activity
 
-![Coding Status](https://img.shields.io/badge/STATUS-CODING-00FF88?style=for-the-badge)
 
-![GitHub Contributions](https://ghchart.rshah.org/00ff88/Aryann004)
+<!-- 🐍 THE CODE HUNTER -->
+
+<h2 align="center">🐍 THE CODE HUNTER</h2>
 
 <p align="center">
-  <b>INITIALIZING ⚡ CODING ⚡ BUILDING ⚡ REPEATING</b>
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://raw.githubusercontent.com/Aryann004/Aryann004/output/github-contribution-grid-snake-dark.svg">
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="https://raw.githubusercontent.com/Aryann004/Aryann004/output/github-contribution-grid-snake.svg">
+    <img
+      src="https://raw.githubusercontent.com/Aryann004/Aryann004/output/github-contribution-grid-snake.svg"
+      alt="GitHub Contribution Snake Animation"
+      width="100%">
+  </picture>
+</p>
+
+<p align="center">
+  <i>⚡ Every commit leaves a mark. Keep coding, keep growing.</i>
 </p>
 
 ---
