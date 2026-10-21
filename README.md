@@ -13,22 +13,30 @@
 
 ---
 
-<!-- Snake Contribution Activity -->
-# 🐍 Contribution Activity
+<!-- 🐍 THE CODE HUNTER -->
+<h2 align="center">🐍 THE CODE HUNTER</h2>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/CONTRIBUTION%20ACTIVITY-00FF88?style=for-the-badge&logo=github&logoColor=black" alt="Contribution Activity"/>
+</p>
 
 <p align="center">
   <picture>
     <source
       media="(prefers-color-scheme: dark)"
-      srcset="./profile/github-contribution-grid-snake-dark.svg">
+      srcset="https://raw.githubusercontent.com/Aryann004/Aryann004/output/github-contribution-grid-snake-dark.svg">
     <source
       media="(prefers-color-scheme: light)"
-      srcset="./profile/github-contribution-grid-snake.svg">
+      srcset="https://raw.githubusercontent.com/Aryann004/Aryann004/output/github-contribution-grid-snake.svg">
     <img
-      src="./profile/github-contribution-grid-snake.svg"
+      src="https://raw.githubusercontent.com/Aryann004/Aryann004/output/github-contribution-grid-snake.svg"
       alt="GitHub contribution snake animation"
       width="100%">
   </picture>
+</p>
+
+<p align="center">
+  <i>⚡ Every commit leaves a mark. Keep coding, keep growing.</i>
 </p>
 
 ---
