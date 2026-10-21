@@ -1,16 +1,94 @@
-## Hi there 👋
 
-<!--
-**Aryann004/Aryann004** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!-- 🌟 Aryann004 | GitHub Profile README -->
 
-Here are some ideas to get you started:
+<h1 align="center">Hey there, I'm Aryan Gautam 👋</h1>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h3 align="center">
+  Aspiring Software Developer | Java & DSA Enthusiast
+</h3>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=00D9A6&center=true&vCenter=true&width=650&lines=Learning+%26+Building+Every+Day;Solving+Data+Structures+%26+Algorithms;Exploring+Web+Development;Turning+Ideas+Into+Projects" alt="Typing SVG" />
+</p>
+
+<p align="center">
+  <a href="https://github.com/Aryann004">
+    <img src="https://img.shields.io/badge/GitHub-Aryann004-181717?style=for-the-badge&logo=github" alt="GitHub"/>
+  </a>
+  <a href="https://leetcode.com/u/Aryann_Gautam3/">
+    <img src="https://img.shields.io/badge/LeetCode-Practice-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/>
+  </a>
+  <a href="https://www.linkedin.com/in/aryann004">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
+  </a>
+</p>
+
+---
+
+## 👨‍💻 About Me
+
+- 🎓 Computer Science Engineering student.
+- 💻 Interested in Java programming and Data Structures & Algorithms.
+- 🌐 Exploring frontend and backend development.
+- 🛠️ Building projects and improving my problem-solving skills.
+- 📚 Learning new technologies and strengthening my development skills.
+- 🎯 Goal: Become a skilled software developer and build useful applications.
+
+---
+
+## 📊 Contribution Activity
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Aryann004&theme=react-dark&hide_border=true&area=true" alt="GitHub Contribution Activity Graph" width="100%"/>
+</p>
+
+---
+
+## 💻 Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,c,python,html,css,js,react,nodejs,dotnet,mysql,git,github&perline=6&theme=dark" alt="Technology Stack"/>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/DSA-Problem%20Solving-00BFA6?style=for-the-badge" alt="Data Structures and Algorithms"/>
+  <img src="https://img.shields.io/badge/SQL-Database%20Queries-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL"/>
+  <img src="https://img.shields.io/badge/ASP.NET-Web%20Development-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt="ASP.NET"/>
+</p>
+
+---
+
+## 📈 GitHub Statistics
+
+<p align="center">
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=Aryann004&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub Statistics"/>
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aryann004&layout=compact&theme=tokyonight&hide_border=true" alt="Most Used Languages"/>
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Aryann004&theme=tokyonight&hide_border=true" alt="GitHub Contribution Streak"/>
+</p>
+
+---
+
+## 🌐 Connect With Me
+
+<p align="center">
+  <a href="https://github.com/Aryann004">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+  <a href="https://www.linkedin.com/in/aryann004">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://leetcode.com/u/Aryann_Gautam3/">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/>
+  </a>
+</p>
+
+<p align="center">
+  <b>🚀 Keep Learning. Keep Building. Keep Growing.</b>
+</p>
+
+<p align="center">
+  ⭐ Thanks for visiting my profile! Let's build something amazing together.
+</p>
