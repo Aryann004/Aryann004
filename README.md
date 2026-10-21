@@ -1,7 +1,7 @@
 
 <!-- 🌟 Aryann004 | GitHub Profile README -->
 
-<h1 align="center">Hey there, I'm Aryan Gautam 👋</h1>
+<h1 align="center">Hey,I'm Aryan Gautam 👋</h1>
 
 <h3 align="center">
   Aspiring Software Developer | Java & DSA | Cyber Security Enthusiast
