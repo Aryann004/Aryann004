@@ -36,7 +36,7 @@
 ## 💻 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,c,python,html,css,js,react,nodejs,dotnet,mysql,git,github&perline=6&theme=dark" alt="Technology Stack"/>
+  <img src="https://skillicons.dev/icons?i=java,c,python,css,js,react,nodejs,dotnet,mysql,html,react,nextjs,fastapi,flutter,vercel,aws,linux,git,github&perline=6&theme=dark" alt="Technology Stack"/>
 </p>
 
 ---
@@ -54,24 +54,20 @@
 
 ---
 
-## 🌐 Connect With Me
-
-<p align="center">
+<!-- Socials -->
+# 🌐 Connect With Me:
+<div align="center">
   <a href="https://github.com/Aryann004">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+    <img src="https://skillicons.dev/icons?i=github" width="48" />
   </a>
   <a href="https://www.linkedin.com/in/aryann004">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    <img src="https://skillicons.dev/icons?i=linkedin" width="48" />
   </a>
   <a href="https://leetcode.com/u/Aryann_Gautam3/">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/>
+    <img src="https://cdn.simpleicons.org/leetcode/FFA116" width="48" />
   </a>
-</p>
+</div>
 
 <p align="center">
-  <b>🚀 Keep Learning. Keep Building. Keep Growing.</b>
-</p>
-
-<p align="center">
-  ⭐ Thanks for visiting my profile! Let's build something amazing together.
+  <b>Let’s Grow Together! 🚀</b>
 </p>
