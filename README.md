@@ -11,18 +11,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=00D9A6&center=true&vCenter=true&width=650&lines=Learning+%26+Building+Every+Day;Solving+Data+Structures+%26+Algorithms;Exploring+Web+Development;Turning+Ideas+Into+Projects" alt="Typing SVG" />
 </p>
 
-<p align="center">
-  <a href="https://github.com/Aryann004">
-    <img src="https://img.shields.io/badge/GitHub-Aryann004-181717?style=for-the-badge&logo=github" alt="GitHub"/>
-  </a>
-  <a href="https://leetcode.com/u/Aryann_Gautam3/">
-    <img src="https://img.shields.io/badge/LeetCode-Practice-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/>
-  </a>
-  <a href="https://www.linkedin.com/in/aryann004">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
-  </a>
-</p>
-
 ---
 
 <!-- Snake Contribution Activity -->
