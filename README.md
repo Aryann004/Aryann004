@@ -11,8 +11,9 @@
   Aspiring Software Developer | Java & DSA | Cyber Security Enthusiast
 </h3>
 
+
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=00D9A6&center=true&vCenter=true&width=650&lines=Learning+%26+Building+Every+Day;Solving+Data+Structures+%26+Algorithms;Exploring+Web+Development;Turning+Ideas+Into+Projects" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=FFD166&center=true&vCenter=true&width=650&lines=Learning+%26+Building+Every+Day;Solving+Data+Structures+%26+Algorithms;Exploring+Web+Development;Turning+Ideas+Into+Projects" alt="Typing SVG" />
 </p>
 
 ---
