@@ -13,9 +13,6 @@
 
 ---
 
-# ⚡ CODE.exe — Developer Activity
-
-
 <!-- 🐍 THE CODE HUNTER -->
 
 <h2 align="center">🐍 THE CODE HUNTER</h2>
@@ -30,7 +27,7 @@
       srcset="https://raw.githubusercontent.com/Aryann004/Aryann004/output/github-contribution-grid-snake.svg">
     <img
       src="https://raw.githubusercontent.com/Aryann004/Aryann004/output/github-contribution-grid-snake.svg"
-      alt="GitHub Contribution Snake Animation"
+      alt="Animated GitHub contribution snake"
       width="100%">
   </picture>
 </p>
