@@ -13,30 +13,32 @@
 
 ---
 
-<!-- CODE.exe | Aryann004 -->
+<!-- CODE.exe - Developer Activity -->
 
 <h2 align="center">⚡ CODE.exe — DEVELOPER ACTIVITY</h2>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/SYSTEM-ONLINE-00ff88?style=for-the-badge&logo=terminal&logoColor=black" alt="System Online"/>
-  <img src="https://img.shields.io/badge/USER-Aryann004-111827?style=for-the-badge&logo=github" alt="GitHub User"/>
+  <img src="https://img.shields.io/badge/STATUS-CODING-00FF88?style=for-the-badge&logo=visualstudiocode&logoColor=black" alt="Coding status"/>
+  <img src="https://img.shields.io/badge/USER-Aryann004-161B22?style=for-the-badge&logo=github" alt="GitHub username"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Aryann004&bg_color=080d12&color=00ff88&line=00ff88&point=ffffff&area=true&hide_border=true" width="100%" alt="Developer Activity Graph"/>
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=Aryann004&bg_color=0D1117&color=00FF88&line=00FF88&point=FFFFFF&area=true&hide_border=true"
+    width="100%"
+    alt="Aryann004 GitHub contribution activity"
+  />
 </p>
 
 <p align="center">
-  <code>INITIALIZING...</code> →
-  <code>CODING...</code> →
-  <code>BUILDING...</code> →
-  <code>REPEATING...</code>
+  <code>INITIALIZING</code> ⚡
+  <code>CODING</code> ⚡
+  <code>BUILDING</code> ⚡
+  <code>REPEATING</code>
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/JAVA-00ff88?style=flat-square&logo=openjdk&logoColor=black" alt="Java"/>
-  <img src="https://img.shields.io/badge/DSA-00ff88?style=flat-square" alt="DSA"/>
-  <img src="https://img.shields.io/badge/WEB_DEV-00ff88?style=flat-square&logo=react&logoColor=black" alt="Web Development"/>
+  <i>Every commit brings me closer to the next level.</i>
 </p>
 
 ---
