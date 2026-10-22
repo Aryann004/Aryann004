@@ -72,9 +72,6 @@
   <a href="https://leetcode.com/u/Aryann_Gautam3/">
     <img src="https://cdn.simpleicons.org/leetcode/FFA116" width="48" />
   </a>
- <a href="https://discord.com/users/1451300948592037908">
-    <img src="https://skillicons.dev/icons?i=discord" width="48" />
-  </a>
 </div>
 
 <p align="center">
