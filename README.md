@@ -4,7 +4,7 @@
 
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=FFB347&center=true&vCenter=true&width=650&lines=Hey+,+I'm+Aryan+%F0%9F%91%8B" alt="Hey, I'm Aryann" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=FFB347&center=true&vCenter=true&width=650&lines=Hey+,+I'm+Aryann+%F0%9F%91%8B" alt="Hey, I'm Aryann" />
 </p>
 
 <h3 align="center">
